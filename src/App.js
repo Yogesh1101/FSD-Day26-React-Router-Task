@@ -42,7 +42,7 @@ const Coures_Details = [
   {
     type: "fullStack",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023.png",
+      "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Selenium-Interview-Questions-and-Answers.webp",
     title: "The Top 10 Tools Every Full Stack Developer Should Master in 2023.",
     description:
       "As a full stack developer, having the right set of tools is crucial for your.",
@@ -52,7 +52,7 @@ const Coures_Details = [
   {
     type: "fullStack",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications.png",
+      "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Selenium-Interview-Questions-and-Answers.webp",
     title: "The Ultimate Guide to Real-World Full Stack Development",
     description:
       "Full stack development has become increasingly popular in recent years, with companies seeking professionals.",
@@ -102,7 +102,7 @@ const Coures_Details = [
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+      "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Selenium-Interview-Questions-and-Answers.webp",
     title: "8 Different Types of Cybersecurity and Threats Involved",
     description:
       "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization.",
@@ -111,8 +111,7 @@ const Coures_Details = [
   },
   {
     type: "cyberSecurity",
-    image:
-      "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png",
+    image: "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Selenium-Interview-Questions-and-Answers.webp",
     title: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
     description:
       "There is something fascinating about a lone hacker in black hoodies using a single system.",
@@ -122,7 +121,7 @@ const Coures_Details = [
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2021/03/Cybersecurity-ultimate-guide-2048x1072.png",
+      "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Selenium-Interview-Questions-and-Answers.webp",
     title: "Cybersecurity Jobs: Ultimate Cybersecurity Career Roadmap",
     description:
       "According to the job statistics of 2020, cybersecurity jobs were among the top 15 emerging",
