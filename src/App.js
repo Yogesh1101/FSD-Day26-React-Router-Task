@@ -111,7 +111,8 @@ const Coures_Details = [
   },
   {
     type: "cyberSecurity",
-    image: "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Selenium-Interview-Questions-and-Answers.webp",
+    image:
+      "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Selenium-Interview-Questions-and-Answers.webp",
     title: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
     description:
       "There is something fascinating about a lone hacker in black hoodies using a single system.",
