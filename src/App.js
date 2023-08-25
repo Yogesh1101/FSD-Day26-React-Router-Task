@@ -102,32 +102,31 @@ const Coures_Details = [
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
-    title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+      "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+    title: "8 Different Types of Cybersecurity and Threats Involved",
     description:
-      "Cybersecurity & Ethical hacking and have been key in making sure that your data online.",
-    date: "27 December 2022",
+      "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization.",
+    date: "9 November 2022",
     comments: "No Comments",
   },
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
-    title:
-      "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
+      "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png",
+    title: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
     description:
-      "Look around today, you will witness that we are more reliant on technology and devices.",
-    date: "20 December 2022",
+      "There is something fascinating about a lone hacker in black hoodies using a single system.",
+    date: "1 March 2021",
     comments: "No Comments",
   },
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/11/Blue-Purple-Futuristic-Virus-Hacks-Youtube-Thumbnail.png",
-    title: "Top 10 Ethical Hacking Books for Beginner to Advanced",
+      "https://www.guvi.in/blog/wp-content/uploads/2021/03/Cybersecurity-ultimate-guide-2048x1072.png",
+    title: "Cybersecurity Jobs: Ultimate Cybersecurity Career Roadmap",
     description:
-      "Did you know that according to the University of Maryland hackers attack every 39 seconds.",
-    date: "21 December 2022",
+      "According to the job statistics of 2020, cybersecurity jobs were among the top 15 emerging",
+    date: "1 March 2021",
     comments: "No Comments",
   },
   {
