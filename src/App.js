@@ -42,7 +42,7 @@ const Coures_Details = [
   {
     type: "fullStack",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-2048x1072.png",
+      "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023.png",
     title: "The Top 10 Tools Every Full Stack Developer Should Master in 2023.",
     description:
       "As a full stack developer, having the right set of tools is crucial for your.",
@@ -52,7 +52,7 @@ const Coures_Details = [
   {
     type: "fullStack",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-2048x1072.png",
+      "https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications.png",
     title: "The Ultimate Guide to Real-World Full Stack Development",
     description:
       "Full stack development has become increasingly popular in recent years, with companies seeking professionals.",
@@ -102,7 +102,7 @@ const Coures_Details = [
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+      "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
     title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
     description:
       "Cybersecurity & Ethical hacking and have been key in making sure that your data online.",
